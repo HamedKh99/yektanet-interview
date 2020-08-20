@@ -1,0 +1,13 @@
+.Container {
+ width: 50%;
+ margin: 10px auto;
+ display: flex;
+ justify-content: center;
+}
+
+button {
+    width: 20%;
+    margin : 0 5px;
+    font-family: IRANSans;
+    cursor: pointer;
+}

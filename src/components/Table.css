@@ -1,0 +1,29 @@
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 95%;
+  border: 1px solid #ddd;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: #c1d67e;
+}
+
+th {
+  cursor: pointer;
+}
+
+th,
+td {
+  text-align: center;
+  padding: 8px;
+}
+
+tr {
+  cursor: pointer;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
